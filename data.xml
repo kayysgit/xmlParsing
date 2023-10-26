@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<data>
-    <item>
-        <id>1</id>
-        <name>kanha </name>
-    </item>
-
-    <item>
-        <id>2</id>
-        <name>xyz</name>
-    </item>
-
-    <item>
-        <id>3</id>
-        <name>abc </name>
-    </item>
-
-</data>
+<resources>
+    <string name="sample_xml">
+        <data>
+            <employee>
+                <name>Ramnik Patel</name>
+                <designation>Software Engineer</designation>
+                <age>30</age>
+            </employee>
+            <employee>
+                <name>Jane Street</name>
+                <designation>Product Manager</designation>
+                <age>35</age>
+            </employee>
+            <employee>
+                <name>Maiz Bagwala</name>
+                <designation>Marketing Specialist</designation>
+                <age>28</age>
+            </employee>
+            <employee>
+                <name>Emily Williams</name>
+                <designation>HR Manager</designation>
+                <age>32</age>
+            </employee>
+            <employee>
+                <name>Chris Brown</name>
+                <designation>Finance Analyst</designation>
+                <age>29</age>
+            </employee>
+            <employee>
+                <name>Sarah Miller</name>
+                <designation>Operations Manager</designation>
+                <age>34</age>
+            </employee>
+        </data>
+    </string>
+</resources>
