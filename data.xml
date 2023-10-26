@@ -3,9 +3,9 @@
     <string name="sample_xml">
         <data>
             <employee>
-                <name>Ramnik Patel</name>
-                <designation>Software Engineer</designation>
-                <age>30</age>
+                <name>Kanha Sanghrajka</name>
+                <designation>Data Analyst</designation>
+                <age>21</age>
             </employee>
             <employee>
                 <name>Jane Street</name>
