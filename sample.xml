@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string-array name="state">
+    <string-array name="Subject">
         <item>Machine Learning</item>
         <item>Cloud Computing</item>
         <item>Big Data Analytics</item>
